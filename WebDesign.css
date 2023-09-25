@@ -1,0 +1,24 @@
+body{
+    /*added background color to make it easier to read*/
+    background-color: black;
+}
+h5{
+    /*same thing on paragraph */
+    text-align: center;
+    color: white;
+    font-size: xx-large;
+    font-family: cursive;
+}
+p{
+    /*This the words color and font and it is center */
+    color: white;
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    /*This is for the picture border*/
+    border: 10px;
+    border-style: solid;
+    border-color: white;
+}
